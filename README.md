@@ -1,6 +1,8 @@
 # :pizza: Hi! Welcome to my GitHub profile!
 
-[![Website](https://img.shields.io/website?down_color=critical&down_message=down&up_color=success&up_message=up&url=https%3A%2F%2Fmassimopavoni.github.io)](https://massimopavoni.github.io)
+[![Website](https://img.shields.io/website?label=Personal%20website&down_color=critical&down_message=offline&up_color=success&up_message=online&url=https%3A%2F%2Fmassimopavoni.github.io)](https://massimopavoni.github.io)
+
+[![NDD](https://img.shields.io/badge/Not%20Declared%20Developers-GitHub%20organization-brightgreen)](https://github.com/not-declared-developers)
 
 ## :bust_in_silhouette: About me
 My name is Massimo, and I am a Bachelor student Computer Science and Engineering at [Politecnico di Milano](https://www.polimi.it/).
