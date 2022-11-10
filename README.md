@@ -5,7 +5,7 @@
 [![NDD](https://img.shields.io/badge/Not%20Declared%20Developers-GitHub%20organization-brightgreen)](https://github.com/not-declared-developers)
 
 ## :bust_in_silhouette: About me
-My name is Massimo, and I am a Bachelor student Computer Science and Engineering at [Politecnico di Milano](https://www.polimi.it/).
+My name is Massimo, and I am a Bachelor student in Computer Science at [Università di Camerino](https://www.unicam.it/).
 
 I hope this little summary will help you understand what I enjoy developing and working on.
 <br>But if you wanna know more, there's always my personal [GitHub page](https://massimopavoni.github.io)! :arrow_upper_left:
