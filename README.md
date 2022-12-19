@@ -35,6 +35,7 @@ I hope this little summary will help you understand what I enjoy developing and 
 
 ## :floppy_disk: /var/db/
 
+[![MongoDB](https://img.shields.io/badge/MongoDB-%23116149?&style=for-the-badge)](https://www.mongodb.com)
 [![SQLite](https://img.shields.io/badge/SQLite-%23003B57?&style=for-the-badge)](https://www.sqlite.org/)
 [![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927?&style=for-the-badge)](https://www.microsoft.com/sql-server)
 [![MariaDB](https://img.shields.io/badge/MariaDB-%23003545?&style=for-the-badge)](https://mariadb.org/)
