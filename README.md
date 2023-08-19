@@ -13,8 +13,9 @@ I hope this little summary will help you understand what I enjoy developing and 
 ## :snake: /bin/main_languages/
 
 ![Python](https://img.shields.io/badge/Python-%233776AB?&style=for-the-badge)
-![C#](https://img.shields.io/badge/C%23-%23239120?&style=for-the-badge)
+![Haskell](https://img.shields.io/badge/Haskell-%238E508A?&style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-%23F75021?&style=for-the-badge)
+![C#](https://img.shields.io/badge/C%23-%23239120?&style=for-the-badge)
 ![C/C++](https://img.shields.io/badge/C/C++-%23A8B9CC?&style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-%231E68AD?&style=for-the-badge)
 ![JSON](https://img.shields.io/badge/JSON-%23333333?&style=for-the-badge)
