@@ -1,61 +1,59 @@
 # :pizza: Hi! Welcome to my GitHub profile!
 
-[![Website](https://img.shields.io/website?label=Personal%20website&down_color=critical&down_message=offline&up_color=success&up_message=online&url=https%3A%2F%2Fmassimopavoni.github.io)](https://massimopavoni.github.io)
-
-[![NDD](https://img.shields.io/badge/Not%20Declared%20Developers-GitHub%20organization-brightgreen)](https://github.com/not-declared-developers)
-
 ## :bust_in_silhouette: About me
 My name is Massimo, and I am a Bachelor student in Computer Science at [Università di Camerino](https://www.unicam.it/).
 
-I hope this little summary will help you understand what I enjoy developing and working on.
-<br>But if you wanna know more, there's always my personal [GitHub page](https://massimopavoni.github.io)! :arrow_upper_left:
+I hope this little summary can help you understand what I enjoy developing and working on, as well as provide some more info about hobbies and passions.<br>
+If you wanna know more, there's always my [LinkedIn profile](https://www.linkedin.com/in/massimo-pavoni/).
 
-## :snake: /bin/main_languages/
+## :snake: /bin/main-languages/
 
-![Python](https://img.shields.io/badge/Python-%233776AB?&style=for-the-badge)
-![Haskell](https://img.shields.io/badge/Haskell-%238E508A?&style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-%23F75021?&style=for-the-badge)
-![C#](https://img.shields.io/badge/C%23-%23239120?&style=for-the-badge)
-![C/C++](https://img.shields.io/badge/C/C++-%23A8B9CC?&style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-%231E68AD?&style=for-the-badge)
-![JSON](https://img.shields.io/badge/JSON-%23333333?&style=for-the-badge)
-![Markdown](https://img.shields.io/badge/Markdown-%23444444?&style=for-the-badge)
+![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-## :beetle: /bin/other_languages/
+## :beetle: /bin/other-languages/
 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?&style=for-the-badge)
-![HTML](https://img.shields.io/badge/HTML-%23E34F26?&style=for-the-badge)
-![CSS](https://img.shields.io/badge/CSS-%231572B6?&style=for-the-badge)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-## :pill: /bin/technologies/
+## :pill: /var/technologies/
 
-[![git](https://img.shields.io/badge/git-%23F05032?&style=for-the-badge)](https://git-scm.com/)
-[![docker](https://img.shields.io/badge/docker-%232496ED?&style=for-the-badge)](https://www.docker.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717?&style=for-the-badge)](https://github.com/massimopavoni)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2?&style=for-the-badge)](https://discord.com/)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 ## :floppy_disk: /var/db/
 
-[![MongoDB](https://img.shields.io/badge/MongoDB-%23116149?&style=for-the-badge)](https://www.mongodb.com)
-[![SQLite](https://img.shields.io/badge/SQLite-%23003B57?&style=for-the-badge)](https://www.sqlite.org/)
-[![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927?&style=for-the-badge)](https://www.microsoft.com/sql-server)
-[![MariaDB](https://img.shields.io/badge/MariaDB-%23003545?&style=for-the-badge)](https://mariadb.org/)
-[![MySQL](https://img.shields.io/badge/MySQL-%234479A1?&style=for-the-badge)](https://www.mysql.com/)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 ## :wrench: /opt/ide/
 
-[![PyCharm](https://img.shields.io/badge/PyCharm-%23A2E46D?&style=for-the-badge)](https://www.jetbrains.com/pycharm/)
-[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23FE2D5D?&style=for-the-badge)](https://www.jetbrains.com/idea/)
-[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC?&style=for-the-badge)](https://code.visualstudio.com/)
-[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%235C2D91?&style=for-the-badge)](https://visualstudio.microsoft.com/)
-[![Vim](https://img.shields.io/badge/Vim-%23019733?&style=for-the-badge)](https://www.vim.org/)
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 
 ## :computer: /boot/os/
 
-[![GNU/Linux](https://img.shields.io/badge/GNU/Linux-%23FCC624?&style=for-the-badge)](https://en.wikipedia.org/wiki/GNU/Linux_naming_controversy)
-[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-%231793D1?&style=for-the-badge)](https://archlinux.org/)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420?&style=for-the-badge)](https://ubuntu.com/)
-[![Microsoft Windows](https://img.shields.io/badge/Microsoft%20Windows-%230078D6?&style=for-the-badge)](https://www.microsoft.com/windows/)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## :bar_chart: /usr/stats
 
@@ -63,7 +61,7 @@ I hope this little summary will help you understand what I enjoy developing and 
 
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=massimopavoni&langs_count=20&layout=donut-vertical&bg_color=23272d&title_color=10c86e&text_color=e5e5e5&border_color=000000&border_radius=16)](https://github.com/anuraghazra/github-readme-stats)
 
-## :busts_in_silhouette: /home/not_declared_developers
+## :busts_in_silhouette: /home/not-declared-developers
 
 [![GitHub organization](https://img.shields.io/badge/Not%20Declared%20Developers-GitHub%20organization-brightgreen)](https://github.com/not-declared-developers)
 
