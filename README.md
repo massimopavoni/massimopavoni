@@ -61,7 +61,7 @@ I hope this little summary will help you understand what I enjoy developing and 
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=massimopavoni&count_private=true&show_icons=true&bg_color=23272d&title_color=10c86e&text_color=e5e5e5&icon_color=00d03c&border_color=000000&border_radius=16)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=massimopavoni&langs_count=10&layout=compact&bg_color=23272d&title_color=10c86e&text_color=e5e5e5&border_color=000000&border_radius=16)](https://github.com/anuraghazra/github-readme-stats)
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=massimopavoni&langs_count=20&layout=compact&bg_color=23272d&title_color=10c86e&text_color=e5e5e5&border_color=000000&border_radius=16)](https://github.com/anuraghazra/github-readme-stats)
 
 ## :busts_in_silhouette: /home/not_declared_developers
 
