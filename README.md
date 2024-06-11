@@ -3,7 +3,7 @@
 ## :bust_in_silhouette: About me
 My name is Massimo, and I am a Bachelor student in Computer Science at [Università di Camerino](https://www.unicam.it/).
 
-I hope this little summary can help you understand what I enjoy developing and working on, as well as provide some more info about hobbies and passions.<br>
+I hope this little summary can help you understand what I enjoy developing and tinkering with.<br>
 If you wanna know more, there's always my [LinkedIn profile](https://www.linkedin.com/in/massimo-pavoni/).
 
 ## :snake: /bin/main-languages/
