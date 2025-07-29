@@ -1,10 +1,11 @@
 # :pizza: Hi! Welcome to my GitHub profile!
 
 ## :bust_in_silhouette: About me
-My name is Massimo, I am a developer and Computer Science graduate, passionate about everything FOSS and programming languages.
+My name is Massimo, I am a Computer Science graduate and passionate developer.<br>
+I love talking about Free and Open Source Software, and I never stop learning new technologies and programming languages.
 
-I hope this little summary can help you understand what I enjoy developing and tinkering with.<br>
-If you wanna know more, there's always my [LinkedIn profile](https://www.linkedin.com/in/massimo-pavoni/).
+The following are some of the things I enjoy developing and tinkering with.<br>
+If you wanna contact me and know me some more, there's always my [LinkedIn profile](https://www.linkedin.com/in/massimo-pavoni/).
 
 ## :crab: /bin/main-languages/
 
