@@ -1,5 +1,12 @@
 # :pizza: Hi! Welcome to my GitHub profile!
 
+> [!WARNING]
+> This repository was migrated to Codeberg.\
+> As of January 2026, I have decided to migrate all of my work to Codeberg.\
+> You can find me there with the same username I have here.\
+> Most of my repositories here on GitHub will soon be deleted, while other ones will be archived and later deleted, or left here for some other reason.\
+> Cheers o7
+
 ## :bust_in_silhouette: About me
 My name is Massimo, I am a Computer Science graduate and passionate developer.<br>
 I love talking about Free and Open Source Software, and I never stop learning new technologies and programming languages.
