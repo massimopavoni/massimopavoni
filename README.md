@@ -77,22 +77,3 @@ If you wanna contact me and know me some more, there's always my [LinkedIn profi
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/damax00)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/massimopavoni)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/Damax)
-
-## :bar_chart: /usr/stats
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=massimopavoni&langs_count=20&layout=donut-vertical&bg_color=23272d&title_color=10c86e&text_color=e5e5e5&border_color=000000&border_radius=16" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=massimopavoni&count_private=true&show_icons=true&bg_color=23272d&title_color=10c86e&text_color=e5e5e5&icon_color=00d03c&border_color=000000&border_radius=16" />
-</a>
-
-## :busts_in_silhouette: /home/not-declared-developers
-
-[![GitHub organization](https://img.shields.io/badge/Not%20Declared%20Developers-GitHub%20organization-brightgreen)](https://github.com/not-declared-developers)
-
-[![Discord guild](https://img.shields.io/discord/926217143194886234?label=Join%20Discord%20Server)](https://discord.gg/ZA76nJ3RsU)
-
-## :star: /dev/support
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T8BD7A1)
